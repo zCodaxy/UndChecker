@@ -26,7 +26,7 @@ class Program
         using (HttpClient client = new HttpClient())
         {
             Console.ForegroundColor = ConsoleColor.Magenta;
-            Console.WriteLine($"{undlogo}\nVersion 1.0.1 | Made By Codaxy\n");
+            Console.WriteLine($"{undlogo}\nVersion 1.0.2 | Made By Codaxy\n");
             Console.ResetColor();
 
             Console.CursorVisible = false;
